@@ -27,8 +27,7 @@ src="https://img.shields.io/github/followers/ManognyaGattereddi?logo=github&styl
 
 
 ### Socials
-
-<p align="left"> <a href="https://discord.com/users/852794902730506280" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://github.com/ManognyaGattereddi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </a> <a href="https://www.linkedin.com/in/manognya-gattereddi-1506251b6/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+ <a href="https://github.com/ManognyaGattereddi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> </a> <a href="https://www.linkedin.com/in/manognya-gattereddi-1506251b6/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
