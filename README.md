@@ -1,7 +1,7 @@
 <p align="center">
     <img width="200" src="https://github.com/ManognyaGattereddi/ManognyaGattereddi/blob/main/memoji.webp">
 </p>
-<a align='center' href="https://git.io/typing-svg"><img align='center' src="https://readme-typing-svg.demolab.com?font=Hallelujah&size=23&pause=1000&color=1CFF92&background=7870FF00&center=true&width=435&lines=              Hey!+I'm+Manognya+Gattereddi" alt="Typing SVG" /></a>
+<a align='center' href="https://git.io/typing-svg"><img align='center' src="https://readme-typing-svg.demolab.com?font=Hallelujah&size=23&pause=1000&color=1CFF92&background=7870FF00&center=true&width=435&lines=Hey!+I'm+Manognya+Gattereddi" alt="Typing SVG" /></a>
 
 
 # 💫 About Me:
